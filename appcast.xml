@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Virtual Greenscreen — macOS-Updates</title>
+        <link>https://github.com/Swifty-Chris/virtual-greenscreen-releases</link>
+        <description>Sparkle-Appcast für Virtual Greenscreen (macOS).</description>
+        <language>de</language>
+    </channel>
+</rss>
