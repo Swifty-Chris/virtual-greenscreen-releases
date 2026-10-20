@@ -6,6 +6,15 @@
         <description>Sparkle-Appcast für Virtual Greenscreen (macOS).</description>
         <language>de</language>
         <item>
+            <title>Virtual Greenscreen 0.43</title>
+            <pubDate>Tue, 20 Oct 2026 20:44:36 +0200</pubDate>
+            <sparkle:version>44</sparkle:version>
+            <sparkle:shortVersionString>0.43</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Swifty-Chris/virtual-greenscreen-releases/releases/download/v0.43/Virtual-Greenscreen-0.43.dmg" length="37373336" type="application/octet-stream"
+                       sparkle:edSignature="2V0/pm1NBadIPxnTjs3vT8e3yc74THSrRiG9TIS/PIcbm9S4nzNR+Vd5MEdGNPFE6azv1hoUwMlFdA4J3gQMAw=="/>
+        </item>
+        <item>
             <title>Virtual Greenscreen 0.42</title>
             <pubDate>Tue, 20 Oct 2026 19:05:54 +0200</pubDate>
             <sparkle:version>43</sparkle:version>
